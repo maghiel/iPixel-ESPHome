@@ -14,6 +14,7 @@ iPixel-ESPHome is an ESPHome integration to control an `iPixel Color` LED matrix
 - Screen orientation
 - Screen on/off
 - ROM clearing
+- Show specified slot on the device
 
 ## Prerequisites
 
