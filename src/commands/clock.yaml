@@ -67,7 +67,7 @@ text:
   # Manual Date Input
   - platform: template
     id: manual_date
-    name: "Date (DD⁄MM⁄YY)"
+    name: "Date (DD∕MM∕YY)"
     icon: "mdi:calendar-edit"
     disabled_by_default: true
     optimistic: true
@@ -118,7 +118,7 @@ switch:
   # Automatic / Manual Time Set
   - platform: template
     id: auto_timeset
-    name: "Auto Date⁄Time set"
+    name: "Auto Date∕Time set"
     icon: "mdi:calendar-sync"
     optimistic: true
     restore_mode: RESTORE_DEFAULT_ON
